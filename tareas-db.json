@@ -1,0 +1,55 @@
+{
+  "tareas": [
+    {
+      "id": "50d0",
+      "titulo": "ht9i760678",
+      "completada": true
+    },
+    {
+      "id": "a390",
+      "titulo": "sdaasd",
+      "completada": false
+    },
+    {
+      "id": "",
+      "titulo": "hola",
+      "completada": true
+    },
+    {
+      "id": "370f",
+      "titulo": "sddsyt",
+      "completada": false,
+      "fecha": "Mon Jul 01 2024"
+    },
+    {
+      "id": "bfa5",
+      "titulo": "dfssfs",
+      "completada": false,
+      "fecha": "Mon Jul 01 2024"
+    },
+    {
+      "id": "181b",
+      "titulo": "dsfss",
+      "completada": false,
+      "fecha": "Mon Jul 01 2024"
+    },
+    {
+      "id": "7c7d",
+      "titulo": "ds54754",
+      "completada": true,
+      "fecha": "Mon Jul 01 2024"
+    },
+    {
+      "id": "e249",
+      "titulo": "hollaa",
+      "completada": false,
+      "fecha": "Mon Jul 01 2024"
+    },
+    {
+      "id": "3099",
+      "titulo": "hayse",
+      "completada": true,
+      "fecha": "Mon Jul 01 2024"
+    }
+  ]
+}
